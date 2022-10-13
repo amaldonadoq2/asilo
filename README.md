@@ -1,2 +1,2 @@
 # asilo
-Proyecto de un proyecto para las gestiones de un asilo
+Proyecto para las gestiones de un asilo
