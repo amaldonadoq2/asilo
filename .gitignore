@@ -15,4 +15,8 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 /.idea
+<<<<<<< HEAD
 /.vscode
+=======
+/.vscode
+>>>>>>> f17088c5c2ccef7d54447d278d3c5e9c43e404b5
